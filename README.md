@@ -15,7 +15,7 @@ I'm currently working on my own website and a few Python Telegram Bots<br>I like
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hamayah&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### Memes
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
