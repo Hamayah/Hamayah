@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my own website and a few Python Telegram Bots<br>I like building random projects
+I like building random projects<br><br>I'm currently working on my own website and Python Telegram Bots<br>
 
 
 ## 🌐 Socials:
