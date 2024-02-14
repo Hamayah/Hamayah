@@ -14,8 +14,7 @@
 
 # 📊 GitHub Stats:
 Catch a glimpse of my journey through code.<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamayah&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hamayah&theme=monokai&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamayah&theme=monokai&hide_border=false&include_all_commits=false&count_private=false) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hamayah&theme=monokai&hide_border=false)
 
 ### 🔝 Top Contributed Repos:
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=Hamayah&limit=5&theme=monokai&combine_all_yearly_contributions=true)
