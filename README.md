@@ -1,7 +1,7 @@
 # ✨ About Me:
 🚀 I thrive on building projects that spark creativity and solve real-world problems.
 
-🔧 **Most Recent Endeavor:** Built an **Expenses Tracker** on Telegram as its my most frequented app on my mobile device. This nifty tool uses Python Telegram Bot and SQLite to make managing finances a breeze.
+🔧 **Most Recent Endeavor:** Using **Flutter** to create a mobile app!
 
 ## 🌟 What Sets Me Apart:
 🛠️ **Tech Aficionado:** Fluent in Python, Java and currently learning HTML, CSS3 and JavaScript. I'm always on the hunt for new technologies and frameworks to explore.<br>
