@@ -23,5 +23,3 @@
 ---
 
 ✨ **Let's Connect!** Your journey through my GitHub is just the beginning. Follow me for a front-row seat to innovation and creativity.
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Hamayah&icon=5&color=9)](https://visitcount.itsvg.in)
